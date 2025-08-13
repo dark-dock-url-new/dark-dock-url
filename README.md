@@ -72,4 +72,6 @@ Store your mnemonic code securely for account recovery.
   
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/components/snap.webp" alt="Dark Dock Register" style="max-width: 100%;"></a>
 
-Update:  04 August 2025
+
+
+Update:  13 August 2025 404 fixes
