@@ -74,4 +74,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  13 August 2025 404 fixes
+
+
+Update:  Saturday 23 August 2025 url is active
