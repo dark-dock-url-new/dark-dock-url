@@ -80,4 +80,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  09/18/2025
+
+
+Update:  10/01/2025 Link is now responsive
